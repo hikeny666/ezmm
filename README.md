@@ -14,5 +14,8 @@
 
 ezmm会自动遍历当前目录下的所有文本文件，并通过hae规则文件匹配敏感信息，并生成cvs文件
 
+![Kapture 2025-03-25 at 10 35 31](https://github.com/user-attachments/assets/ce63628b-8dd7-49be-8eeb-e7372d906edf)
+
+
 ## THANKS
 https://github.com/gh0stkey/HaE
